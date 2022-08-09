@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap");
+* {
+  font-family: "Quicksand", sans-serif;
+}
+body {
+  background-color: #23252c;
+}
+
+.wrapper {
+  background-color: #1a1b21;
+  width: 317px;
+  height: 399px;
+  padding: 15px 17px;
+}
+.me {
+  text-align: center;
+  //padding: 2px;
+}
+
+.name {
+  color: #ffffff;
+  font-size: 25px;
+}
+
+.title {
+  color: #f3bf99;
+  font-size: 12.8px;
+}
+
+.email {
+  color: #ffffff;
+  font-size: 10.24px;
+}
